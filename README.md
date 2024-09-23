@@ -1,4 +1,4 @@
-# Astronaut Daily Schedule Manager
+# Astronaut Daily Schedule Manager: a java application
 
 ## Overview
 Astronaut Daily Schedule Manager is a Java-based application aiming to make the management of day-to-day tasks easy for astronauts. In this regard, it applies several design patterns for promoting the robustness and maintainability of the application.
