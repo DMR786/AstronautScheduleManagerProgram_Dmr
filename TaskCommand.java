@@ -1,3 +1,0 @@
-interface TaskCommand {
-    void execute();
-}
